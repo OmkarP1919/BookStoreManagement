@@ -27,6 +27,29 @@ A simple Windows Forms application built using **C# (.NET Framework)** and **MyS
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="Screenshots/Index.png" width="400"/></td>
+    <td><img src="Screenshots/Login.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Biling.png" width="400"/></td>
+    <td><img src="Screenshots/Books.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Employees.png" width="400"/></td>
+    <td><img src="Screenshots/Dashboard.png" width="400"/></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🗃️ Database Structure
 
 ### Database Name: `bsms`
@@ -54,29 +77,6 @@ A simple Windows Forms application built using **C# (.NET Framework)** and **MyS
      ```
 4. **Create the database and tables** (if not already)
 5. **Run the project** (`F5` or Start)
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="Screenshots/Index.png" width="400"/></td>
-    <td><img src="Screenshots/Login.png" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Biling.png" width="400"/></td>
-    <td><img src="Screenshots/Books.png" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Employees.png" width="400"/></td>
-    <td><img src="Screenshots/Dashboard.png" width="400"/></td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
