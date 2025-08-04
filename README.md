@@ -63,16 +63,16 @@ A simple Windows Forms application built using **C# (.NET Framework)** and **MyS
 
 <table>
   <tr>
-    <td><img src="screenshots/Index.png" width="300"/></td>
-    <td><img src="screenshots/Login.png" width="300"/></td>
+    <td><img src="Screenshots/Index.png" width="300"/></td>
+    <td><img src="Screenshots/Login.png" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Biling.png" width="300"/></td>
-    <td><img src="screenshots/Books.png" width="300"/></td>
+    <td><img src="Screenshots/Biling.png" width="300"/></td>
+    <td><img src="Screenshots/Books.png" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/Employees.png" width="300"/></td>
-    <td><img src="screenshots/Dashboard.png" width="300"/></td>
+    <td><img src="Screenshots/Employees.png" width="300"/></td>
+    <td><img src="Screenshots/Dashboard.png" width="300"/></td>
   </tr>
 </table>
 
