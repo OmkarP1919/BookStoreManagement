@@ -59,8 +59,6 @@ A simple Windows Forms application built using **C# (.NET Framework)** and **MyS
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <div align="center">
 
 <table>
