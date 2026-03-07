@@ -96,7 +96,15 @@ Free to use and modify for learning or educational purposes.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-Omkar Potangale  
-[Visit My Portfolio](https://omkarpotangale.me)
+**Omkar Potangale**
+
+🔗 Portfolio  
+https://omkarpotangale.tech/
+
+📧 Email  
+omkarpotangale@gmail.com  
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/omkarpotangale/
